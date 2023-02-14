@@ -36,3 +36,8 @@
 
 - Application of this over a video player to manipulate a video based on the gestures performed
 
+### Tutorials
+
+- [Transfer Learning for Computer Vision Tutorial - PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+- [Quantized Transfer Learning for Computer Vision Tutorial - PyTorch](https://pytorch.org/tutorials/intermediate/quantized_transfer_learning_tutorial.html)
+- [What is `torch.nn` really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
